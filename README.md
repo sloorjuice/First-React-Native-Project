@@ -1,11 +1,20 @@
-# React Native Template
+# Royal's App (WIP)
 
-This is a react native template for students at a high school because npx commands will not run for the students. 
+- This is a IOS/Android/Web App made using React Native.
+- It's my first React Natie app and it was a School Project
 
-After cloning, install dependencies in the project folder 
+---
 
-```
-npm i
-```
+## A Simple App for Royal Students
+- Made by Students for Students
+- Make and View posts on the Message Board
+- View the school map easily to navigate the school
+- Easily log in with your school account
 
-Then update the erie_setup.ps1 to your username instead of mine. Then copy and paste the commands from erie_setup.ps1 into the terminal.
+---
+
+<details>
+  <summary>Screenshots</summary>
+
+  
+</details>
